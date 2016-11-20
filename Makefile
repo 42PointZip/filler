@@ -5,8 +5,8 @@
 #                                                     +:+ +:+         +:+      #
 #    By: lasalced <lasalced@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
-#    Created: 2013/12/29 18:22:46 by lasalced          #+#    #+#              #
-#    Updated: 2015/12/12 17:21:26 by lasalced         ###   ########.fr        #
+#    Created: 2015/12/29 18:22:46 by lasalced          #+#    #+#              #
+#    Updated: 2016/11/20 09:54:09 by lasalced         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -22,7 +22,7 @@ LIB		=		libft/libft.a
 
 INC		=		libft/includes
 
-NAME	=		filler
+NAME	=		lasalced.filler
 
 RM		=		rm -f
 
